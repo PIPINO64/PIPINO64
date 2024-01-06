@@ -5,9 +5,10 @@ Matheus Henrique Gaspar, aluno do curso de Ciencia da Computação, na Unioeste,
 <hr/>
 <h3 align="left"> 💻 Atualmente Aprendendo: </h3>
 <p align="left">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
-<img src="https://img.shields.io/badge/c%2B%2B-323330?style=for-the-badge&logo=c%2B%2B&logoColor=F7DF1E"/></a>
-<img src="https://img.shields.io/badge/GITHUB-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+<img src="https://img.shields.io/badge/c%2B%2B-333333?style=for-the-badge&logo=c%2B%2B&logoColor=1E90FF"/></a>
+<img src="https://img.shields.io/badge/GITHUB-333333?style=for-the-badge&logo=github&logoColor=FFFAFA"/></a>
+<img src="https://img.shields.io/badge/linux-333333?style=for-the-badge&logo=linux&logoColor=FFFAFA"/></a>
 </p>
 <hr/>
 <h3 align="left"> 📲 Contatos: </h3>
