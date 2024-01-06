@@ -1,5 +1,5 @@
 <h3 align="center"> Bem vindo ao meu Github! 🧙 </h3>
-<hr/>
+<h3 align="center">▬▬ι═══════ﺤ</h3><hr/>
 <h3 align="left"> 🔥 Sobre mim: </h3>
 Matheus Henrique Gaspar, aluno do curso de Ciência da Computação, na Unioeste, campus Cascavel.
 <hr/>
