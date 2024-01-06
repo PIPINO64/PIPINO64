@@ -1,7 +1,6 @@
 <h1 align="center"> Bem vindo ao meu Github! 🧙 </h1>
-<hr/>
 <h3 align="left"> 🔥 Sobre mim: </h3>
-Meu nome é Matheus Gaspar, aluno do curso de Ciencia da Computação - Unioeste.
+Matheus Henrique Gaspar, aluno do curso de Ciencia da Computação, na Unioeste, campus de Cascavel.
 <hr/>
 <h3 align="left"> 💻 Atualmente Aprendendo: </h3>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
